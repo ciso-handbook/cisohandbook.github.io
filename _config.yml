@@ -1,0 +1,13 @@
+title: The Security Mindset
+remote_theme: the-security-mindset/jekyll-theme@main
+
+baseurl: /
+
+search_enabled: true
+auto_page_title: true
+
+sidebar:
+  - test
+
+plugins:
+  - jekyll-remote-theme
